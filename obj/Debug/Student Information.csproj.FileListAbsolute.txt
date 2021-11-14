@@ -1,0 +1,9 @@
+C:\Users\Utchas\source\repos\Student Information\bin\Debug\Student Information.exe.config
+C:\Users\Utchas\source\repos\Student Information\bin\Debug\Student Information.exe
+C:\Users\Utchas\source\repos\Student Information\bin\Debug\Student Information.pdb
+C:\Users\Utchas\source\repos\Student Information\obj\Debug\Student Information.csprojAssemblyReference.cache
+C:\Users\Utchas\source\repos\Student Information\obj\Debug\Student_Information.Form1.resources
+C:\Users\Utchas\source\repos\Student Information\obj\Debug\Student_Information.Properties.Resources.resources
+C:\Users\Utchas\source\repos\Student Information\obj\Debug\Student Information.csproj.GenerateResource.cache
+C:\Users\Utchas\source\repos\Student Information\obj\Debug\Student Information.exe
+C:\Users\Utchas\source\repos\Student Information\obj\Debug\Student Information.pdb
